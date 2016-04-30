@@ -1,0 +1,9 @@
+c:\users\jon\documents\visual studio 2015\Projects\FluffShuffle\FluffShuffle\bin\Debug\FluffShuffle.exe.config
+C:\Users\Jon\documents\visual studio 2015\Projects\FluffShuffle\FluffShuffle\bin\Debug\FluffShuffle.exe
+C:\Users\Jon\documents\visual studio 2015\Projects\FluffShuffle\FluffShuffle\bin\Debug\FluffShuffle.pdb
+C:\Users\Jon\documents\visual studio 2015\Projects\FluffShuffle\FluffShuffle\obj\Debug\FluffShuffle.csprojResolveAssemblyReference.cache
+C:\Users\Jon\documents\visual studio 2015\Projects\FluffShuffle\FluffShuffle\obj\Debug\FluffShuffle.Form1.resources
+C:\Users\Jon\documents\visual studio 2015\Projects\FluffShuffle\FluffShuffle\obj\Debug\FluffShuffle.Properties.Resources.resources
+C:\Users\Jon\documents\visual studio 2015\Projects\FluffShuffle\FluffShuffle\obj\Debug\FluffShuffle.csproj.GenerateResource.Cache
+C:\Users\Jon\documents\visual studio 2015\Projects\FluffShuffle\FluffShuffle\obj\Debug\FluffShuffle.exe
+C:\Users\Jon\documents\visual studio 2015\Projects\FluffShuffle\FluffShuffle\obj\Debug\FluffShuffle.pdb
